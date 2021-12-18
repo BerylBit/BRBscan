@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/BRBscan/static/js/main.308ca831.js",
-    "static/js/787.b97112e8.chunk.js": "/BRBscan/static/js/787.b97112e8.chunk.js",
-    "index.html": "/BRBscan/index.html",
-    "main.308ca831.js.map": "/BRBscan/static/js/main.308ca831.js.map",
-    "787.b97112e8.chunk.js.map": "/BRBscan/static/js/787.b97112e8.chunk.js.map"
+    "main.js": "/BRBscan/images/logo-ftmscan.svg/static/js/main.785f78a5.js",
+    "static/js/787.b97112e8.chunk.js": "/BRBscan/images/logo-ftmscan.svg/static/js/787.b97112e8.chunk.js",
+    "index.html": "/BRBscan/images/logo-ftmscan.svg/index.html",
+    "main.785f78a5.js.map": "/BRBscan/images/logo-ftmscan.svg/static/js/main.785f78a5.js.map",
+    "787.b97112e8.chunk.js.map": "/BRBscan/images/logo-ftmscan.svg/static/js/787.b97112e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.308ca831.js"
+    "static/js/main.785f78a5.js"
   ]
 }
