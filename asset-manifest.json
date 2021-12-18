@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/BRBscan/static/js/main.7c6bfcf5.js",
+    "main.js": "/BRBscan/static/js/main.a9b48439.js",
     "static/js/787.b97112e8.chunk.js": "/BRBscan/static/js/787.b97112e8.chunk.js",
     "index.html": "/BRBscan/index.html",
-    "main.7c6bfcf5.js.map": "/BRBscan/static/js/main.7c6bfcf5.js.map",
+    "main.a9b48439.js.map": "/BRBscan/static/js/main.a9b48439.js.map",
     "787.b97112e8.chunk.js.map": "/BRBscan/static/js/787.b97112e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.7c6bfcf5.js"
+    "static/js/main.a9b48439.js"
   ]
 }
