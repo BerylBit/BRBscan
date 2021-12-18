@@ -1,24 +1,10 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import App from "./App";
-import reportWebVitals from "./reportWebVitals";
-import { ChakraProvider, ColorModeScript } from "@chakra-ui/react";
-import { BrowserRouter } from "react-router-dom";
-import theme from "./theme";
+import Header from './header';
+import Logo from './logo';
+import Container from './container';
+import FilterHero from './filterHero';
+import Footer from './footer';
+import HomeStats from './homeStats';
+import LatestBlocks from './latestBlocks';
+import LatestTransections from './latestTransections';
 
-ReactDOM.render(
-    <React.StrictMode>
-        <BrowserRouter>
-            <ChakraProvider theme={theme}>
-                <ColorModeScript initialColorMode={theme.config.mode} />
-                <App />
-            </ChakraProvider>
-        </BrowserRouter>
-    </React.StrictMode>,
-    document.getElementById("root")
-);
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+export {Header, Logo, Container, FilterHero, Footer, HomeStats, LatestBlocks, LatestTransections}
